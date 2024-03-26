@@ -111,7 +111,7 @@ h4, h5, h6, .h4, .h5, .h6 {
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
-    color: var(--bs-primary);
+    color: #2e5634;
 }
 
 .navbar .dropdown-toggle::after {
