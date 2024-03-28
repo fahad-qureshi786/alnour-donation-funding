@@ -20,7 +20,7 @@ export default function Header(){
                                 <a href="#" className="nav-item nav-link">Resources</a>
                                 <a href="#contact-us" className="nav-item nav-link">Contact Us</a>
                             </div>
-                            <a href="" className="btn py-2 px-4 d-none d-xl-inline-block rounded-pill" style={{background:'#2e5634', color:'white'}}>Login</a>
+                            <a href="https://loan-app-dashboard-frontend.vercel.app/" target={"_self"} className="btn py-2 px-4 d-none d-xl-inline-block rounded-pill" style={{background:'#2e5634', color:'white'}}>Login</a>
                         </div>
                     </nav>
                 </div>
