@@ -27,7 +27,7 @@ export default function AboutUs() {
                                     <i className="fas fa-share me-2"></i>Ensures Islamic sharia compliance
                                 </div>
                             </div>
-                            <a href="#" className="btn py-3 px-5 rounded-pill" style={{backgroundColor:'#2e5634', color:'white'}}>Login to apply<i
+                            <a href="https://loan-app-dashboard-frontend.vercel.app/" target={"_self"} className="btn py-3 px-5 rounded-pill" style={{backgroundColor:'#2e5634', color:'white'}}>Login to apply<i
                                 className="fas fa-arrow-right ps-2"></i></a>
                         </div>
                     </div>
