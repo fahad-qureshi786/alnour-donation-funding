@@ -8,14 +8,14 @@ export default function Services(){
                     </div>
                     <div className="row"
                          data-wow-delay="0.1s">
-                        <div className="col-sm-12 col-md-12  col-lg-4  rounded bg-light">
-                            <img style={{width: '60%'}} src="/img/working/1. Demo Screen.jpg" alt=""/>
+                        <div className="col-sm-12 col-md-12  col-lg-3  rounded bg-light">
+                            <img width={'100%'} src="/img/working/step-one.png" alt=""/>
                         </div>
-                        <div className="col-sm-12  col-md-12 col-lg-4   rounded bg-light">
-                            <img style={{width: '60%'}} src="/img/working/1. Welcome.jpg" alt=""/>
+                        <div className="col-sm-12 ms-2 col-md-12 col-lg-4   rounded bg-light">
+                            <img width={'100%'}  src="/img/working/step-two.png" alt=""/>
                         </div>
-                        <div className="col-sm-12  col-md-12 col-lg-4   rounded bg-light">
-                            <img style={{width: '60%'}} src="/img/working/2. Demo Screen.jpg" alt=""/>
+                        <div className="col-sm-12 ms-2 col-md-12 col-lg-4   rounded bg-light">
+                            <img width={'100%'}  src="/img/working/step-three.png" alt=""/>
                         </div>
                     </div>
                 </div>
