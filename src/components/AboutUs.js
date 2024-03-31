@@ -1,7 +1,7 @@
 export default function AboutUs() {
     return (
         <>
-            <div id="how-it-works" className="container-fluid py-6">
+            <div id="about-us" className="container-fluid py-6">
                 <div className="container">
                     <div className="row g-5 align-items-center">
                         <div className="col-lg-5 wow bounceInUp" data-wow-delay="0.1s">

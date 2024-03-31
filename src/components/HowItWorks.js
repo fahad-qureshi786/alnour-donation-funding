@@ -1,7 +1,7 @@
-export default function Services(){
+export default function HowItWorks(){
     return (
         <>
-            <div  style={{backgroundColor:'#77d586'}} className="container-fluid py-6">
+            <div id={"how-it-works"}  style={{backgroundColor:'#77d586'}} className="container-fluid py-6">
                 <div className="container">
                     <div className="text-center wow bounceInUp" data-wow-delay="0.1s">
                         <h1 className="display-5 mb-5" style={{color:'white'}}>How <span style={{color:'#2e5634'}}>Al Nour</span> Works!</h1>

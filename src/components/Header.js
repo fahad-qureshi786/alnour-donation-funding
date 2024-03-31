@@ -14,10 +14,8 @@ export default function Header(){
                             <div className="navbar-nav mx-auto">
                                 <a href="index.html" className="nav-item nav-link active">Home</a>
                                 <a href="#how-it-works" className="nav-item nav-link">How it works?</a>
-                                <a href="#rewarding-experience" className="nav-item nav-link">Rewarding Experience</a>
-                                <a href="#" className="nav-item nav-link">FAQ</a>
-                                <a href="#" className="nav-item nav-link">About Us</a>
-                                <a href="#" className="nav-item nav-link">Resources</a>
+                                <a href="#about-us" className="nav-item nav-link">About Us</a>
+                                <a href="#donate" className="nav-item nav-link">Donate</a>
                                 <a href="#contact-us" className="nav-item nav-link">Contact Us</a>
                             </div>
                             <a href="https://loan-app-dashboard-frontend.vercel.app/" target={"_self"} className="btn py-2 px-4 d-none d-xl-inline-block rounded-pill" style={{background:'#2e5634', color:'white'}}>Login</a>

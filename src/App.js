@@ -1,8 +1,8 @@
 import Header from "./components/Header";
 import HeroSection from "./components/HeroSection";
 import AboutUs from "./components/AboutUs";
-import Fact from "./components/Fact";
-import Services from "./components/Services";
+import Donate from "./components/Donate";
+import HowItWorks from "./components/HowItWorks";
 import Team from "./components/Team";
 import ContactUs from "./components/ContactUs";
 import Footer from "./components/Footer";
@@ -24,12 +24,12 @@ function App() {
             {/*<Fact/>*/}
             {/*    Services*/}
 
-            <Services/>
+            <HowItWorks/>
 
             {/*    Team section*/}
 
             {/*<Team/>*/}
-            <Fact/>
+            <Donate/>
 
             {/*    Contact form*/}
             <ContactUs/>

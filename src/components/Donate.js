@@ -1,7 +1,7 @@
-export default function Fact(){
+export default function Donate(){
     return(
         <>
-            <div id="storied-life-coach" className="container-fluid faqt py-6">
+            <div id="donate" className="container-fluid faqt py-6">
                 <div className="container">
                     <div className="row g-4 align-items-center">
                         <div className="col-lg-7">
